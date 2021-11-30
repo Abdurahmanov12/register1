@@ -12,5 +12,8 @@
     <color name="ripple_affect">#9A0704</color>
     <color name="btn_register">#FF0000</color>
     <color name="btn_register_stroke">#530C0C</color>
-    <color name="text_bottom">#FF000000</color>
+    <color name="text_bottom">#FFFFFFFF</color>
+    <color name="colorAccent">#E54F78</color>
+    <color name="colorPrimary">#504FE5</color>
+
 </resources>

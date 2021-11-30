@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:514092839765:android:a1b9c70b6820ddf15735dc",
         "android_client_info": {
-          "package_name": "com.company.register"
+          "package_name": "com.example.register"
         }
       },
       "oauth_client": [
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAY1Q1cEq28v_5mjeDB6mw2OfAOb_kLCP4"
+          "current_key": "AIzaSyDUSciixlUInylDX7H499-xeo_V_EjWm4w"
         }
       ],
       "services": {
@@ -39,7 +39,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:514092839765:android:afe7eafcbbbe1aa25735dc",
         "android_client_info": {
-          "package_name": "com.company.register"
+          "package_name": "com.example.register"
         }
       },
       "oauth_client": [
@@ -47,7 +47,7 @@
           "client_id": "514092839765-7rq4t1sdt63h6vlrajqfak10f9litb31.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.company.register",
+            "package_name": "com.example.register",
             "certificate_hash": "85d149ac0f72088ec67a71a74a3172231c7a5fcc"
           }
         },
@@ -58,7 +58,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAY1Q1cEq28v_5mjeDB6mw2OfAOb_kLCP4"
+          "current_key": "AIzaSyDUSciixlUInylDX7H499-xeo_V_EjWm4w"
         }
       ],
       "services": {
